@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac2d028f6f8b3e94cad2864f4904dd19, type: 3}
+  m_Name: BallSettings
+  m_EditorClassIdentifier: 
+  BallMaterials:
+  - {fileID: 2100000, guid: 9df386b9db77f5b4c84b97d335765be0, type: 2}
+  - {fileID: 2100000, guid: f6b9df08eb9427248b359d2fbcfe8b4e, type: 2}
+  - {fileID: 2100000, guid: 1e0d5657234f68a44a394310c816d77e, type: 2}
+  - {fileID: 2100000, guid: 5a503b44907325e47a838b1d0d0b2da5, type: 2}
+  - {fileID: 2100000, guid: ed0f85f75e299be419e57a64988b0511, type: 2}
+  - {fileID: 2100000, guid: 11f8df5f0d97b734b86c8d715275579a, type: 2}
+  - {fileID: 2100000, guid: b948edac4dbe0024fa9fe353c5b1e4c2, type: 2}
+  - {fileID: 2100000, guid: 2bca84b05ff63b849b83a0cfd2e21137, type: 2}
+  - {fileID: 2100000, guid: 1163a572b7dd8084091ae316ffa63780, type: 2}
+  - {fileID: 2100000, guid: 6d72ef9ec44dc4540a384593811de750, type: 2}
+  - {fileID: 2100000, guid: e0d0074ceb8ce9c4d8f4f5e26f9b501c, type: 2}
+  BallProjectionMaterials:
+  - {fileID: 2100000, guid: b0e351ec9dd72a64c88f4b35218f3180, type: 2}
+  - {fileID: 2100000, guid: 5c11e4d3d27266f48bb0b7dbf0ed96fc, type: 2}
+  - {fileID: 2100000, guid: 3acde71936fa7d042bdda2c744c39f7a, type: 2}
+  - {fileID: 2100000, guid: 6c74e235b6a1924418d686c61999d201, type: 2}
+  - {fileID: 2100000, guid: 258dff112ea18594c9ee7ad30e90c5a6, type: 2}
+  - {fileID: 2100000, guid: 169bbaf3dfd56e14092189ef7dbf88d0, type: 2}
+  - {fileID: 2100000, guid: ec3c9ad6f9e590b42ba1b7cbc95e4f93, type: 2}
+  - {fileID: 2100000, guid: d16514e2bd1ef4d4e8727f49e56ea6c3, type: 2}
+  - {fileID: 2100000, guid: 33ada8942e314b7418204da8a3103b4e, type: 2}
+  - {fileID: 2100000, guid: 5b62a3de22278af4585359a943e136ae, type: 2}
+  - {fileID: 2100000, guid: 151ee5a8a9c3d3b4ba18d3f98c4dad37, type: 2}
